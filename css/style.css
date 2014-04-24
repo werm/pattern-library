@@ -1,0 +1,7 @@
+.row {
+  padding: 20px;
+}
+
+.grids div[class*="col"] {
+  background: rgba(0,0,0,0.1);
+}
